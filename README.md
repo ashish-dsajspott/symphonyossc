@@ -1,3 +1,6 @@
+# ！！由于内部架构问题，本项目不再做更新，也不修复问题了，本人已投身另一个替代方案的研发，特此通知。
+
+
 # f-render | 基于 ElementUI 的表单设计器
 
 [![MIT](https://img.shields.io/github/license/dream2023/f-render)](https://github.com/dream2023/f-render)
